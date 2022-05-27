@@ -1,4 +1,16 @@
 # QuickLook.Plugin.JupyterNotebookViewer
+<p align="center">
+    <a href="https://github.com/zhangkaihua88" alt="开发者">
+        <img src="https://img.shields.io/badge/开发者-幻华-blue?logo=github">
+    </a>
+    <a href="https://github.com/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer" alt="GitHub all releases">
+        <img src="https://img.shields.io/github/downloads/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer/total?color=success">
+    </a>
+    <a href="https://github.com/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer/releases" alt="GitHub release (latest by date)">
+        <img src="https://img.shields.io/github/v/release/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer">
+    </a>
+</p> 
+
 ![](image/Screenshot.png)
 
 **Note**: *It will be slow, if the ipynb file is large (maybe 1M)*
