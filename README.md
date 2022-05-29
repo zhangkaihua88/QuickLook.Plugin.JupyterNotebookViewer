@@ -16,7 +16,7 @@
 **Note**: *It will be slow, if the ipynb file is large (maybe 1M)*
 
 # Download and Installation
-1. Go to [Release page](https://github.com/QL-Win/QuickLook.Plugin.HelloWorld/releases) and download the latest version.
+1. Go to [Release page](https://github.com/zhangkaihua88/QuickLook.Plugin.JupyterNotebookViewer/releases) and download the latest version.
 2. Make sure that you have QuickLook running in the background. Go to your Download folder, and press Spacebar on the downloaded `.qlplugin` file.
 3. Click the "Install" button in the popup window.
 4. Restart QuickLook.
